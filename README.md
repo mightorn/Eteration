@@ -5,6 +5,8 @@ Install dependencies
 npm install
 ```
 
+Create ".env.local" file and add api url to here => NEXT_PUBLIC_API_URL
+
 First, run the development server:
 
 ```bash
